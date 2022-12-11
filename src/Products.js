@@ -3,7 +3,7 @@ import styled from "styled-components";
 
 const Products = () => {
   return <Wrapper>
-    
+   <h2> product page</h2> 
   </Wrapper>;
 };
 
