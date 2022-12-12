@@ -49,7 +49,7 @@ h4 {
 
 h1 {
   color: ${({ theme }) => theme.colors.heading};
-  font-size: 6rem;
+  font-size: 5rem;
   font-weight: 900;
 }
 
@@ -85,13 +85,13 @@ li {
 ${"" /* resuable code section  */}
 
 .container {
-  max-width: 120rem;
+  max-width:80%;
   margin: 0 auto;
 }
 
 .grid {
   display: grid;
-  gap: 9rem;
+  gap: 7rem;
 }
 
 .grid-two-column {
